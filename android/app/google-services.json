@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "889772279390",
+    "firebase_url": "https://gospecia-vpn-ios-default-rtdb.firebaseio.com",
+    "project_id": "gospecia-vpn-ios",
+    "storage_bucket": "gospecia-vpn-ios.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889772279390:android:3c210353af08dc31b5d6cf",
+        "android_client_info": {
+          "package_name": "com.gospecia.myvpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889772279390-k6g9egcuqb3rk18a4qb9nni63b2qqkpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVFRVPyZUJWpIOGSXp9-O4ESJ8exsJP9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889772279390-k6g9egcuqb3rk18a4qb9nni63b2qqkpj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "889772279390-b7qn52nr1p23kvslv4oi90h184nrt51h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.nerd.vpn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
