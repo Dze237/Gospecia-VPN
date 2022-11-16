@@ -202,12 +202,18 @@ body {
 	color: #9153c9;
 }
 
-.right_inner .li_wrap .info_com{
+.right_inner .li_wrap {
 	font-weight: 300;
 	font-size: 14px;
 	margin-top: 3px;
 }
 
+.info_com {
+	font-weight: 300;
+	font-size: 14px;
+	margin-top: 3px;
+	color: #778899;
+}
 .right_inner .li_wrap .info_cont{
 	margin-top: 15px;
 }
